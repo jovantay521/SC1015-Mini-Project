@@ -1,6 +1,6 @@
 # SC1015-Mini-Project
 A133 Team 4 Mini Project\
-Using Machine Learning to create Movie Recommendaton System\
+Using Machine Learning to create Movie Recommendaton System
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). Our project focus is recreating a movie recommendation system similar to popular streaming platforms (e.g. Netflix, Disney+) using machine learning using movie databases from [The Movie Database API](https://www.themoviedb.org/documentation/api).
